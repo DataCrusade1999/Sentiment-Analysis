@@ -1,4 +1,4 @@
-![](https://img.shields.io/static/v1?label=Phase&message=In%20Development&color=blueviolet&style=flat&logo=appveyor)
+![](https://img.shields.io/static/v1?label=Phase&message=In%20Development&color=blueviolet&style=flat&logo=appveyor)  ![](https://img.shields.io/static/v1?label=License&message=MIT&color=blueviolet&style=flat&logo=appveyor)
 # Sentiment Analysis (Python)
 
 
